@@ -4,10 +4,22 @@
    Author's custom styles
    ========================================================================== */
 
+.error {
+  color: red;
+}
 
+.lead {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.4;
+}
 
-
-
+.title {
+    margin-top: 20px;
+    font-size: 45px;
+}
 
 
 
